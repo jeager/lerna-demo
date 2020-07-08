@@ -4,6 +4,9 @@
   "workspaces": [
     "packages/shared-components/*"
   ],
+  "publishConfig": {
+    "access": "public"
+  },
   "devDependencies": {
     "lerna": "^3.22.1"
   },
