@@ -1,11 +1,10 @@
 {
   "name": "@vfranco/button",
-  "version": "0.0.1",
+  "version": "0.0.0",
   "main": "lib/index.js",
   "dependencies": {
     "react": "^16.13.1",
     "react-dom": "^16.13.1"
   },
-  "private": false,
-  "gitHead": "0e17cf2324109cf0e43e6fc7f277019c1640e999"
+  "gitHead": "a733201ff9a6c2c29ea6537a2adbd2d56dc35b16"
 }
