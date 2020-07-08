@@ -1,6 +1,6 @@
 import React from 'react'
 
-const Button = ({ children, color }) => {
+const Button = ({ children, color, ...props }) => {
   return (
     <button style={{
       textDecoration: 'none',
@@ -14,7 +14,7 @@ const Button = ({ children, color }) => {
       lineHeight: '36px',
       padding: '0 16px',
       textTransform: 'uppercase'
-    }}>
+    }} {...props}>
       {children}
     </button>
   )
