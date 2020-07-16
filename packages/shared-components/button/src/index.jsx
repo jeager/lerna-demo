@@ -5,7 +5,7 @@ const Button = ({ children, color, ...props }) => {
     <button style={{
       textDecoration: 'none',
       color: '#fff',
-      backgroundColor: color || '#12329a',
+      backgroundColor: color || '#12329b',
       textAlign: 'center',
       letterSpacing: '.5px',
       cursor: 'pointer',
