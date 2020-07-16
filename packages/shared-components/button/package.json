@@ -1,6 +1,6 @@
 {
   "name": "@jeager13/button",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "main": "lib/index.js",
   "dependencies": {
     "react": "^16.13.1",
